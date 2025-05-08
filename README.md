@@ -12,7 +12,7 @@
 </p>
 
 
-![Last Updated](https://img.shields.io/github/last-commit/Drunstan/rok-garrison-lead-infantry)
+
 # Rise of Kingdoms – Infantry Garrison Lead Journal
 
 Welcome to my RoK progression log as I develop into a fully capable infantry garrison lead.
