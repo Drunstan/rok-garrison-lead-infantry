@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="https://github.com/Drunstan/rok-garrison-lead-infantry/blob/main/screenshots/IMG_0114.JPG" alt="Drunstan Logo" width="200"/>
+</p>
+
+<h1 align="center">🛡️ Drunstan – Infantry Garrison Lead</h1>
+<h3 align="center"><i>"Stand firm. Hold the line. Let the empire break on your shield."</i></h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/Drunstan/rok-garrison-lead-infantry" alt="Last Commit">
+  <img src="https://img.shields.io/badge/Garrison%20Type-Infantry-blue" alt="Infantry Badge">
+  <img src="https://img.shields.io/badge/Civilization-Germany-grey" alt="Starting Civ">
+</p>
+
+
 ![Last Updated](https://img.shields.io/github/last-commit/Drunstan/rok-garrison-lead-infantry)
 # Rise of Kingdoms – Infantry Garrison Lead Journal
 
