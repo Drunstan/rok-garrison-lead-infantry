@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Drunstan/rok-garrison-lead-infantry/blob/main/screenshots/epicOwl.png" alt="Drunstan Logo" width="200"/>
+  <img src="https://github.com/Drunstan/rok-garrison-lead-infantry/blob/main/screenshots/epicOwl.png" alt="Drunstan Logo" width="1000"/>
 </p>
 
 <h1 align="center">🛡️ Drunstan – Infantry Garrison Lead</h1>
