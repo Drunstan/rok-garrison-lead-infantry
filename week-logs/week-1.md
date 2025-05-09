@@ -6,14 +6,14 @@ Your goal this week: Lay the foundation for a powerful infantry-based garrison a
 
 ## Day 1: Foundations
 
-- [ ] Select **Germany** as your starting civilization
-- [ ] Join a **Top 10–20 alliance** (active, with territory)
-- [ ] Complete **all tutorial and initial quests**
+- [X] Select **Germany** as your starting civilization
+- [X] Join a **Top 10–20 alliance** (active, with territory)
+- [X] Complete **all tutorial and initial quests**
 - [ ] Push to **City Hall Level 10**
 - [ ] Unlock and level **Sun Tzu + Eulji Mundeok**
-- [ ] Use **all AP on Barbarians** (Lv 1–5)
-- [ ] Start building **resource and troop buildings**
-- [ ] Activate 24hr **Peace Shield** if not protected
+- [X] Use **all AP on Barbarians** (Lv 1–5)
+- [X] Start building **resource and troop buildings**
+- [X] Activate 24hr **Peace Shield** if not protected
 
 ---
 
